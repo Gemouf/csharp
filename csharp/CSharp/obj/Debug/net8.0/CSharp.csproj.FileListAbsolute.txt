@@ -1,0 +1,15 @@
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\bin\Debug\net8.0\CSharp.exe
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\bin\Debug\net8.0\CSharp.deps.json
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\bin\Debug\net8.0\CSharp.dll
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\bin\Debug\net8.0\CSharp.pdb
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.sourcelink.json
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.dll
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.pdb
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\ref\CSharp.dll
