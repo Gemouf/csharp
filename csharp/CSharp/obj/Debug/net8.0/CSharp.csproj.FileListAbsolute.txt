@@ -13,3 +13,18 @@ D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\refint\CSharp.dll
 D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.pdb
 D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
 D:\GEMOLIVE\Code Class\CSharp\CSharp\CSharp\obj\Debug\net8.0\ref\CSharp.dll
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\CSharp.sourcelink.json
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\CSharp.dll
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\CSharp.pdb
+D:\Projects\LamProj\csharp\CSharp\bin\Debug\net8.0\CSharp.exe
+D:\Projects\LamProj\csharp\CSharp\bin\Debug\net8.0\CSharp.deps.json
+D:\Projects\LamProj\csharp\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+D:\Projects\LamProj\csharp\CSharp\bin\Debug\net8.0\CSharp.dll
+D:\Projects\LamProj\csharp\CSharp\bin\Debug\net8.0\CSharp.pdb
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+D:\Projects\LamProj\csharp\CSharp\obj\Debug\net8.0\ref\CSharp.dll
